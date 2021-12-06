@@ -1,1 +1,2 @@
 This is Deep Learning class
+From Prof HW
